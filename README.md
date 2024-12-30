@@ -1,8 +1,8 @@
 # Tetris Project
 C언어를 이용하여 만든 테트리스 게임.
 
+<img src="https://github.com/user-attachments/assets/8484111c-5b79-429f-a99e-c727d0bcb379" width="70%">
 
-<img src="https://github.com/user-attachments/assets/8484111c-5b79-429f-a99e-c727d0bcb379" width="40%">
 ## 프로젝트 설명
 
 한컴MDS 아카데미에서 진행한 ARM 디바이스 펌웨어 팀프로젝트.
