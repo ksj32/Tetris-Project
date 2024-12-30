@@ -1,7 +1,7 @@
 # Tetris Project
 C언어를 이용하여 만든 테트리스 게임.
 
-![맵생성 및 블럭 낙하 화면](https://github.com/user-attachments/assets/8484111c-5b79-429f-a99e-c727d0bcb379)
+![맵생성 및 블럭 낙하 화면](https://github.com/user-attachments/assets/8484111c-5b79-429f-a99e-c727d0bcb379){: width="100" height="100"} 
 
 ## 프로젝트 설명
 
