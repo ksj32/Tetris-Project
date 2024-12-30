@@ -1,7 +1,7 @@
 # Tetris Project
 C언어를 이용하여 만든 테트리스 게임.
 
-![그림1](https://github.com/ksj32/ARM_firmware/assets/77198732/0f9d1f67-029c-42cf-9c72-bceefcfd10cd)
+![맵생성 및 블럭 낙하 화면](https://github.com/user-attachments/assets/8484111c-5b79-429f-a99e-c727d0bcb379)
 
 ## 프로젝트 설명
 
