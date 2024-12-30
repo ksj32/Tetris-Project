@@ -1,7 +1,7 @@
 # Tetris Project
 C언어를 이용하여 만든 테트리스 게임.
 
-<img src="https://github.com/user-attachments/assets/7958c962-8c8c-4d1a-a260-545b775928a8" width="70%">
+<img src="https://github.com/user-attachments/assets/cc0bb54d-0421-4486-97c6-a449420f021e" width="70%">
 
 ## 프로젝트 설명
 
